@@ -1,6 +1,6 @@
 # Hello!
 
-I'm Joel, a student in software development. 
+I'm Joel, a software development student. 
 My main focus is python, but also do some C.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelFrancisco)]
