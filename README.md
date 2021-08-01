@@ -1,6 +1,6 @@
 # Hello!
 
-**[EN]** 🇺🇸 
+🇺🇸 **[EN]**  
 
 I'm Joel, a brazillian software development student. 
 
@@ -11,7 +11,7 @@ I'm looking for freelance - if interressed contact me on linkedin.
 I can do Rest API with NodeJs and expressJs (with postgres, mySQL or MongoDB for database), Front end with ReactJs, mobile app with React native and Expo.
 Other types of projects can also be dealed.
 
-**[PT-BR]** 🇧🇷
+🇧🇷 **[PT-BR]** 
 
 Me chamo Joel, sou um estudante de desenvolvimento de software
 
@@ -26,5 +26,3 @@ Outros tipos de projeto também podem ser negociados.
 
 [![](https://img.shields.io/badge/Joel_Francisco-blue?style=flat-square&labelColor=blue&logo=linkedin)](https://www.linkedin.com/in/joel-francisco-1430b61a8/)
 
-![](https://cdn.nohat.cc/thumb/f/720/comdlpng6968821.jpg)
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png)
