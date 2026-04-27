@@ -1,6 +1,7 @@
 # Hey 👋
 
 I'm **Joel Francisco**, a Brazilian software architect.
+
 Sou um arquiteto de software brasileiro.
 
 [![LinkedIn](https://img.shields.io/badge/Joel_Francisco-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/joel-francisco-1430b61a8/)
@@ -81,4 +82,5 @@ Prefiro soluções:
 - LinkedIn → [joel-francisco](https://www.linkedin.com/in/joel-francisco-1430b61a8/)
 
 Always open to interesting systems-design problems.
+
 Sempre aberto a conversas sobre design de sistemas.
